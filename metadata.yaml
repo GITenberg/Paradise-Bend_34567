@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '3549'
     url: http://www.gutenberg.org/2009/agents/3549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34567#Paradise-Bend
 gutenberg_issued: '2010-12-04'
 gutenberg_type: Text
 identifiers:
